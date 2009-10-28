@@ -1,0 +1,11 @@
+## Interface: 30100
+## Title: Fishbringer @project-version@
+## Notes: The legendary Fishbringer, Guide of the Scarlet Highlord! Nat Pagle would be proud of you!
+## OptionalDeps: Fishing Buddy, LibSharedMedia-3.0, SharedMedia, AceLocale-3.0
+## SavedVariables: FishbringerDB
+## Author: @project-author@
+## Version: @project-version@
+
+embeds.xml
+localization.lua
+fishy.lua
